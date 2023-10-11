@@ -4,12 +4,12 @@
  
           background-color: #311d04;
           color: rgb(214, 232, 247);
-          padding:18px;
+          padding:10px;
           text-align: center;
           border-style: groove;
           border-color: black;
           border-radius: 25px;
-          margin: 5%;
+          margin: 2%;
     }
  
     footer{
